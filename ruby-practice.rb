@@ -1,9 +1,7 @@
-
-begin
-
-  num = 14/ww
-rescue ZeroDivisionError
-  puts "Division by zero not possible"
-rescue
-  puts "Other errors"
-end
+bar = "My Cool"
+foo = "String"
+baz = foo #String
+baz = baz.concat(" today") #String today
+foo = bar #My Cool
+bar = foo.concat(" yesterday #{baz}") #My Cool yesterday String today
+puts bar
