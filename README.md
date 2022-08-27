@@ -1,7 +1,9 @@
-# Enumerable
+# Practice Ruby
 Ruby practice classes, Constructors, commenting, error handling, Iterations, dictionaries, arrays, casting, get user input and installing uby
 
 - Grepper link [link](https://www.codegrepper.com/app/my_answers.php).
+- Youtube Video [link](https://youtu.be/zDxsHj4P4Xk).
+
 
 ## Built With:
 - Ruby
